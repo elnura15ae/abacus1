@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+main {
+ max-width:40em;
+ margin:auto;
+ font-family: 'Roboto Slab', 'sans serif';
+}
+
+h2 { 
+ text-align:center 
+}
+
+section {
+    margin:4em 0;
+}
+
+p {
+ font-size:80%;
+}
+
+#rowsDIV {
+ display:-ms-flexbox;
+ display:flex;
+ -ms-flex-pack:center;
+     justify-content:center;
+ font: 5vmin monospace;
+ -webkit-user-select:none;
+    -moz-user-select:none;
+     -ms-user-select:none;
+         user-select:none;
+}
+
+#rowsDIV>div {
+ border:1px solid #000;
+ padding:0;
+}
+
+#rowsDIV div {
+ text-align:center;
+ padding:1%;
+}
+
+#rowsDIV>div>div{
+}
+
+div.decimalDigit {
+ color:#666;
+}
+
+line {
+ stroke: rgb(105, 73, 73);
+ stroke-width: 18;
+ stroke-dasharray:0.5;
+}
+
+text {
+    font-size:70px;
+}
+
+
+#abacus svg {
+ width:6vmin;
+ height:auto;
+ margin-top:0;
+}
+
+
+#sorobanSVG {
+    border:1ex solid rgb(3, 61, 116);
+}
+
+
+#sorobanHorizLine {
+    stroke: #630;
+ stroke-width: 6;
+ stroke-dasharray:0;
+}
+
+#lowerStone {
+    fill:rgb(16, 100, 179);
+}
+
+#upperStone {
+    fill:rgb(16, 100, 179);
+}
+
+
+
+
+
+// WEBPACK FOOTER //
+// ./src/main.css
