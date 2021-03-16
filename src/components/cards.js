@@ -1,9 +1,10 @@
 import React from 'react'
 import {Card, CardDeck, Button} from 'react-bootstrap'
-import Image from '../img/01.jpg'
+import Image from '../img/02.jpg'
 
 
 export default function CardsD() {
+  
     return (
         <div>
 <CardDeck>

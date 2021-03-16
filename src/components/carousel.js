@@ -13,7 +13,7 @@ export default function CarouselSide() {
       height={350}
     />
     <Carousel.Caption>
-      <h3>Online Courses</h3>
+      <h3>Website under construction</h3>
       <p>a platform that teaches your child abacus anytime, anywhere! This platform enables them to learn abacus at the comfort of their own home</p>
     </Carousel.Caption>
   </Carousel.Item>
@@ -25,7 +25,7 @@ export default function CarouselSide() {
       height={350}
     />
     <Carousel.Caption>
-      <h3>Join our classe</h3>
+      <h3>Website under construction</h3>
       <p>you can follow course in Bruxelles</p>
     </Carousel.Caption>
   </Carousel.Item>
@@ -37,7 +37,7 @@ export default function CarouselSide() {
       height={350}
     />
     <Carousel.Caption >
-      <h3>We open class in Lucerna School</h3>
+      <h3>Website under construction</h3>
       <p>the course for dutch speakers</p>
     </Carousel.Caption>
   </Carousel.Item>
